@@ -3,10 +3,10 @@
  */
 import React from 'react';
 
-class Inventory extends React.component{
+class Inventory extends React.Component{
     render(){
-        return()
+        return(<p>Inventory</p>)
     }
 }
 
-export default React;
+export default Inventory;

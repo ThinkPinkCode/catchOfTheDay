@@ -4,9 +4,9 @@
 
 import React from 'react';
 
-class Order extends React.component{
-    render(){
-        return()
+class Order extends React.Component {
+    render() {
+        return (<p>Order</p>)
     }
 }
 
